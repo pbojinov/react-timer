@@ -10,7 +10,7 @@
     "url": "https://github.com/StevenIseki/react-timer.git"
   },
   "peerDependencies": {
-    "react": "^0.13.0"
+    "react": ">=0.14.0"
   },
   "devDependencies": {
     "express": "^4.7.2",
