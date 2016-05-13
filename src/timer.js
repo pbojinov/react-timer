@@ -69,7 +69,7 @@ let Timer = React.createClass({
     
     let timerStyle = {
       margin: "0",
-      padding: "2em"
+      // padding: "2em"
     };
 
     let buttonStyle = {
