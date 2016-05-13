@@ -68,25 +68,25 @@ let Timer = React.createClass({
   render: function(){
     
     let timerStyle = {
-      margin: "0",
+      // margin: "0",
       // padding: "2em"
     };
 
     let buttonStyle = {
-      background: "#fff",
-      color: "#666",
-      border: "1px solid #ddd",
-      margin: "0.25em",
-      padding: "0.75em",
-      fontWeight: "200"
+      // background: "#fff",
+      // color: "#666",
+      // border: "1px solid #ddd",
+      // margin: "0.25em",
+      // padding: "0.75em",
+      // fontWeight: "200"
     };
 
     let secondsStyles = {
-      fontSize: "200%",
-      fontWeight: "200",
-      lineHeight: "1.5",
-      margin: "0",
-      color: "#666"
+      // fontSize: "200%",
+      // fontWeight: "200",
+      // lineHeight: "1.5",
+      // margin: "0",
+      // color: "#666"
     };
 
     return (
